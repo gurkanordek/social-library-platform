@@ -1,0 +1,13 @@
+# Bağımlılıklar (Packages)
+/node_modules
+/backend/node_modules
+/frontend/node_modules
+
+# Ortam Dosyaları
+.env
+
+# Derleme Klasörleri
+/frontend/dist
+
+# Günlük Dosyaları
+npm-debug.log*
